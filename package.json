@@ -1,0 +1,20 @@
+{
+  "name": "graphql-learning",
+  "version": "1.0.0",
+  "description": "graphql learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "xwj",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "6.23.0",
+    "body-parser": "1.17.2",
+    "express": "4.15.4",
+    "graphql": "0.11.2"
+  }
+}
